@@ -65,6 +65,9 @@ set (cross_platform_files
      bridge.h
      shim.cc
      shim.h
+     runresult.h
+     instrumentation.cpp
+     instrumentation.h
      tinyinstinstrumentation.cpp
      tinyinstinstrumentation.h
 )
