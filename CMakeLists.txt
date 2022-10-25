@@ -65,6 +65,8 @@ set (cross_platform_files
      bridge.h
      shim.cc
      shim.h
+     tinyinstinstrumentation.cpp
+     tinyinstinstrumentation.h
 )
 
 if (WIN32)
