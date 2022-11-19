@@ -70,6 +70,8 @@ set (cross_platform_files
      instrumentation.h
      tinyinstinstrumentation.cpp
      tinyinstinstrumentation.h
+     aflcov.cpp
+     aflcov.h
 )
 
 if (WIN32)

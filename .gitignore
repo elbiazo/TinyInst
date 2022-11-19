@@ -8,3 +8,6 @@ instrumentation.cpp
 instrumentation.h
 tinyinstinstrumentation.cpp
 tinyinstinstrumentation.h
+aflcov.cpp
+aflcov.h
+cxx.h
